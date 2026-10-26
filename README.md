@@ -1,7 +1,9 @@
 # niri-place
 Choose where a monitor goes relative to your main screen in [niri](https://github.com/YaLTeR/niri),
 and have niri remember it. Saved monitors go back to their place whenever they are plugged in.
-![Uploading image.png…]()
+
+<img width="921" height="672" alt="image" src="https://github.com/user-attachments/assets/07424d1f-4281-4462-a9ec-4a0029b6d6fc" />
+
 
 ## Install
 
